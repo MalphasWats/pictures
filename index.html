@@ -6,7 +6,7 @@ title: stream
 		<h2>stream</h2>
         <ul id="pictures">
             {% for post in site.posts %}
-            <li><a href="{{site.baseurl}}{{post.url}}"> {{post.path}} </a></li>
+            <li><a href="{{site.baseurl}}{{post.url}}"> {{post.path | remove: "_posts/" | remove: ".markdown"}} </a></li>
             {% endfor %}
         </ul>
         
