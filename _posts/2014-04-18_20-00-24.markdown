@@ -1,0 +1,6 @@
+---
+layout: photo
+title: Hello Daddy.
+---
+
+![Hello Daddy](/pictures/pictures/2014-04-18_20-00-24_large.jpg)
