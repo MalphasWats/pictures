@@ -3,4 +3,4 @@ layout: photo
 title: Hello Daddy.
 ---
 
-![Hello Daddy](/pictures/pictures/2014-04-18_20-00-24_large.jpg)
+![Hello Daddy]({{site.baseurl}}/pictures/2014-04-18-20-00-24_large.jpg)
