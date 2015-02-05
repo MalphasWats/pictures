@@ -92,6 +92,11 @@ section
 	margin-top:3em;
 }
 
+section img
+{
+	width:100%;
+}
+
 section h2
 {
 	margin-bottom:0.4em;
