@@ -1,0 +1,21 @@
+---
+layout: default
+title: albums
+---
+
+		<h2>albums</h2>
+        <ul id="pictures">
+            {% for post in site.posts %}
+            <li><a href="{{site.baseurl}}{{post.url}}"> <img src="{{site.baseurl}}/pictures/{{post.path | remove: "_posts/" | remove: ".markdown"}}/{{post.path | remove: "_posts/" | remove: ".markdown"}}_square.jpg" alt="{{post.title}}"> </a></li>
+            {% endfor %}
+            
+
+			{% for tag in site.tags %}
+			{% assign post = site.tags[tag][0] %}
+			<li><a href="{{site.baseurl}}{{post.url}}"> <img src="{{site.baseurl}}/pictures/{{post.path | remove: "_posts/" | remove: ".markdown"}}/{{post.path | remove: "_posts/" | remove: ".markdown"}}_square.jpg" alt="{{post.title}}"> {{ tag }} </a></li>
+			{% endfor %}
+            
+            
+        </ul>
+        
+        <!-- 1 -->
