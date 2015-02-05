@@ -1,0 +1,14 @@
+---
+layout: default
+title: albums
+---
+
+		<h2>albums</h2>
+        <ul id="albums">
+			{% for tag in site.tags %}
+			{% assign post = tag | last | first %}
+			<li><a href="{{site.baseurl}}/albums/{{tag[0]}}.html"> <img src="{{site.baseurl}}/pictures/{{post.path | remove: "_posts/" | remove: ".markdown"}}/{{post.path | remove: "_posts/" | remove: ".markdown"}}_square.jpg" alt="{{post.title}}"> {{ tag[0] }} </a></li>
+			{% endfor %}
+        </ul>
+        
+        <!-- 2 -->
