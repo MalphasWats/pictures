@@ -131,7 +131,12 @@ section ul li
 	{
 		width:25%;
     }
-}
+	
+	section ul#albums li
+	{
+		margin:0.6em;
+		padding:0.3em;
+	}
 
 @media (max-width: 414px)
 {
@@ -139,6 +144,12 @@ section ul li
 	{
 		width:33.333%;
     }
+	
+	section ul#albums li
+	{
+		margin:0.3em;
+		padding:0.2em;
+	}
 }
 
 section ul li img
