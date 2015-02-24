@@ -7,7 +7,7 @@ layout: default
 		<li>{{page.date_taken}}</li>
 		<li>{{page.make}}<br> {{page.model}}</li>
 		<li><dl class="settings"><dt>Aperture</dt><dd>{{page.aperture}}</dd><dt>Shutter</dt><dd>{{page.shutter}}</dd><dt>ISO</dt><dd>{{page.iso}}</dd></dl></li>
-		<li><a href="http://maps.google.com/?ie=UTF8&hq=&q={{page.lat}},{{page.lon}}&ll={{page.lat}},{{page.lon}}&z=16"><dl class="gps"><dt>Lat</dt><dd>{{page.lat}}</dd><dt>Lon</dt><dd>{{page.lon}}</dd><dt>Alt</dt><dd>{{page.alt}}m</dd></dl></a></li>
+		<li><a href="http://maps.google.com/?q={{page.lat}},{{page.lon}}&amp;ll={{page.lat}},{{page.lon}}&amp;z=16"><dl class="gps"><dt>Lat</dt><dd>{{page.lat}}</dd><dt>Lon</dt><dd>{{page.lon}}</dd><dt>Alt</dt><dd>{{page.alt}}m</dd></dl></a></li>
 	</ul>
 	
 	{{content}}
