@@ -182,3 +182,52 @@ section ul#albums li a
 {
 	text-decoration:none;
 }
+
+ul.exif
+{
+	color: #999;
+	font-size:8pt;
+	
+	float:right;
+	margin:8px 0px;
+}
+
+ul.exif li
+{
+	
+	width:100px;
+	height:50px;
+	text-align: center;
+	display:table-cell;
+	vertical-align: middle;
+	float:none;
+}
+
+ul.exif dl dt, ul.exif dl dd
+{
+	display: inline-block;
+}
+
+dl.settings dt
+{
+	width:50px;
+	text-align: right;
+	padding-right:8px;
+}
+dl.settings dd
+{
+	width: 30px;
+	text-align: left;
+}
+
+dl.gps dt
+{
+	width:20px;
+	text-align: right;
+	padding-right:8px;
+}
+dl.gps dd
+{
+	width: 60px;
+	text-align:left;
+}
