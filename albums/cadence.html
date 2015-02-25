@@ -1,10 +1,4 @@
 ---
-layout: default
+layout: album
 title: cadence
 ---
-
-		<ul id="pictures">
-            {% for post in site.tags[page.title] %}
-            <li><a href="{{site.baseurl}}{{post.url}}"> <img src="{{site.baseurl}}/pictures/{{post.path | remove: "_posts/" | remove: ".markdown"}}/{{post.path | remove: "_posts/" | remove: ".markdown"}}_square.jpg" alt="{{post.title}}"> </a></li>
-            {% endfor %}
-        </ul>
