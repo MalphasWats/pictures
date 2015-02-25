@@ -92,6 +92,11 @@ section
 	margin-top:3em;
 }
 
+section p
+{
+	margin: 1em 0em 1.5em 0em;
+}
+
 section img
 {
 	width:100%;
