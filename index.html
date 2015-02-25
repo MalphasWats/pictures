@@ -5,7 +5,7 @@ title: stream
 
         <ul id="pictures">
             {% for post in site.posts %}
-            <li><a href="{{site.baseurl}}{{post.url}}"> <img src="{{site.baseurl}}/pictures/{{post.picture_basename}}/{{post.picture_basename}}_square.jpg" alt="{{post.title}} title="{{post.title}}"> </a></li>
+            <li><a href="{{site.baseurl}}{{post.url}}"> <img src="{{site.baseurl}}/pictures/{{post.picture_basename}}/{{post.picture_basename}}_square.jpg" alt="{{post.title}}" title="{{post.title}}"> </a></li>
             {% endfor %}
         </ul>
         
