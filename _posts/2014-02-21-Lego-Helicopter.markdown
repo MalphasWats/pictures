@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Lego Helicopter
-tags: 
+tags: [noahs toys]
 picture_basename: 2014-02-21-Lego-Helicopter
 make: Apple
 model: iPhone 5

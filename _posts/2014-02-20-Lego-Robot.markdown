@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Lego Robot
-tags: 
+tags: [noahs toys]
 picture_basename: 2014-02-20-Lego-Robot
 make: Apple
 model: iPhone 5
