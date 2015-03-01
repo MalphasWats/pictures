@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Beanie Baby
-tags: 
+tags: [cadence]
 picture_basename: 2014-02-19-Beanie-Baby
 make: Apple
 model: iPhone 5
