@@ -2,7 +2,7 @@
 layout: photo
 title: Finished Spoon
 tags: carving
-picture_basename: 2015-02-14-Finish-Spoon
+picture_basename: 2015-02-14-Finished-Spoon
 make: Apple
 model: iPhone 6 Plus
 date_taken: 2015:02:14 14:24:46
