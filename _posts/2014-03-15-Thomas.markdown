@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Thomas
-tags: 
+tags: [trains, noah]
 picture_basename: 2014-03-15-Thomas
 make: Apple
 model: iPhone 5
