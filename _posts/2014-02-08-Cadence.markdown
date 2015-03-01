@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Cadence
+tags: cadence
+picture_basename: 2014-02-08-Cadence
+make: Apple
+model: iPhone 5
+date_taken: 2014:02:08 14:40:48
+aperture: 2.4
+shutter: 1/24
+iso: 50
+lat: 51.292714
+lon: 0.474036
+alt: 56.00
+---
+
+

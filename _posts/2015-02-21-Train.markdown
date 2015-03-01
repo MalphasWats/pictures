@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Train
+tags: trains
+picture_basename: 2015-02-21-Train
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2015:02:21 15:24:45
+aperture: 2.2
+shutter: 1/189
+iso: 32
+lat: 51.123292
+lon: 0.226992
+alt: 87.90
+---
+
+

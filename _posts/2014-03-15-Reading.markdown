@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Reading
+tags: cadence
+picture_basename: 2014-03-15-Reading
+make: Apple
+model: iPhone 5
+date_taken: 2014:03:15 15:54:46
+aperture: 2.4
+shutter: 1/60
+iso: 64
+lat: 51.068803
+lon: 0.665517
+alt: 20.73
+---
+
+

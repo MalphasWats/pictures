@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Thomas
+tags: 
+picture_basename: 2014-03-15-Thomas
+make: Apple
+model: iPhone 5
+date_taken: 2014:03:15 14:06:40
+aperture: 2.4
+shutter: 1/935
+iso: 50
+lat: 51.070278
+lon: 0.685011
+alt: 42.74
+---
+
+

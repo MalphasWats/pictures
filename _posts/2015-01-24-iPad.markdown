@@ -1,0 +1,17 @@
+---
+layout: photo
+title: iPad
+tags: cadence
+picture_basename: 2015-01-24-iPad
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2015:01:24 16:03:10
+aperture: 2.2
+shutter: 1/4
+iso: 64
+lat: 51.352281
+lon: 0.458117
+alt: 2.99
+---
+
+

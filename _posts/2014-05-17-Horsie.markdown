@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Horsie
+tags: cadence
+picture_basename: 2014-05-17-Horsie
+make: Apple
+model: iPhone 5
+date_taken: 2014:05:17 13:50:38
+aperture: 2.4
+shutter: 1/40
+iso: 64
+lat: 51.329872
+lon: 0.482828
+alt: 13.14
+---
+
+

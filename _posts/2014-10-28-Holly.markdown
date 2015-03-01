@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Holly
+tags: 
+picture_basename: 2014-10-28-Holly
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2014:10:28 14:08:46
+aperture: 2.2
+shutter: 1/120
+iso: 32
+lat: 50.824081
+lon: -1.616219
+alt: 23.35
+---
+
+

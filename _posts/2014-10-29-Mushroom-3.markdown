@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Mushroom 3
+tags: fungi
+picture_basename: 2014-10-29-Mushroom-3
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2014:10:29 11:43:55
+aperture: 2.2
+shutter: 1/15
+iso: 100
+lat: 50.875911
+lon: -1.658081
+alt: 97.14
+---
+
+

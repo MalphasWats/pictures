@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Shopping
-tags: 
+tags: [noah, cadence]
 picture_basename: 2015-02-28-Shopping
 make: Apple
 model: iPhone 6 Plus

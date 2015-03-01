@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Log
+tags: carving
+picture_basename: 2015-02-07-Log
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2015:02:07 12:52:27
+aperture: 2.2
+shutter: 1/120
+iso: 32
+lat: 50.932267
+lon: -0.367536
+alt: 27.17
+---
+
+

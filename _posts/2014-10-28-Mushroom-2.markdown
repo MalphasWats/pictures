@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Mushroom 2
+tags: fungi
+picture_basename: 2014-10-28-Mushroom-2
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2014:10:28 14:23:55
+aperture: 2.2
+shutter: 1/148
+iso: 32
+lat: 50.822886
+lon: -1.597169
+alt: 22.81
+---
+
+

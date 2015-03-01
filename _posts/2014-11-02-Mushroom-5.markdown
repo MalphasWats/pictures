@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Mushroom 5
+tags: fungi
+picture_basename: 2014-11-02-Mushroom-5
+make: Apple
+model: iPhone 6
+date_taken: 2014:11:02 16:02:47
+aperture: 2.2
+shutter: 1/199
+iso: 32
+lat: 50.859300
+lon: -1.499442
+alt: 32.08
+---
+
+

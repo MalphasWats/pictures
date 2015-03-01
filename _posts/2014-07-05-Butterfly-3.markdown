@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Butterfly 3
+tags: butterflies
+picture_basename: 2014-07-05-Butterfly-3
+make: Apple
+model: iPhone 5
+date_taken: 2014:07:05 13:55:28
+aperture: 2.4
+shutter: 1/20
+iso: 100
+lat: 51.448208
+lon: 0.161769
+alt: 10.37
+---
+
+

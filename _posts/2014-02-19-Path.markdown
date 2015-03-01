@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Path
+tags: 
+picture_basename: 2014-02-19-Path
+make: Apple
+model: iPhone 5
+date_taken: 2014:02:19 15:01:19
+aperture: 2.4
+shutter: 1/387
+iso: 50
+lat: 51.132897
+lon: 0.287000
+alt: 96.78
+---
+
+

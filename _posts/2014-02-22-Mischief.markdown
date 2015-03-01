@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Mischief
+tags: [noah, cadence]
+picture_basename: 2014-02-22-Mischief
+make: Apple
+model: iPhone 5
+date_taken: 2014:02:22 18:13:41
+aperture: 2.4
+shutter: 1/20
+iso: 400
+lat: 51.352256
+lon: 0.458128
+alt: 3.27
+---
+
+

@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Castle
+tags: 
+picture_basename: 2014-04-11-Castle
+make: Apple
+model: iPhone 5
+date_taken: 2014:04:11 12:35:56
+aperture: 2.4
+shutter: 1/1085
+iso: 50
+lat: 51.915314
+lon: -2.866269
+alt: 110.87
+---
+
+
