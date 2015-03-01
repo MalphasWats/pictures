@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Reading
-tags: cadence
+tags: [cadence, trains]
 picture_basename: 2014-03-15-Reading
 make: Apple
 model: iPhone 5
