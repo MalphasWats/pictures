@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Haircut
+tags: [noah]
+picture_basename: 2015-03-07-Haircut
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2015:03:06 17:15:07
+aperture: 2.2
+shutter: 1/15
+iso: 32
+lat: 51.394767
+lon: 0.496650
+alt: 37.00
+---
+
+
