@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Scooter
+tags: [cadence]
+picture_basename: 2015-04-14-Scooter
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2015:04:03 15:01:47
+aperture: 2.2
+shutter: 1/201
+iso: 32
+lat: 50.784386
+lon: -1.707761
+alt: 64.94
+---
+
+
