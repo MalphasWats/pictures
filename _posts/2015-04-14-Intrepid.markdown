@@ -1,0 +1,17 @@
+---
+layout: photo
+title: Intrepid
+tags: [noah]
+picture_basename: 2015-04-14-Intrepid
+make: Apple
+model: iPhone 6 Plus
+date_taken: 2015:04:04 13:30:34
+aperture: 2.2
+shutter: 1/1068
+iso: 32
+lat: 50.827478
+lon: -1.706456
+alt: 58.60
+---
+
+
