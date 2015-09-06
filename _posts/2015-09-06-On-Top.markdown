@@ -1,0 +1,17 @@
+---
+layout: photo
+title: On Top
+tags: []
+picture_basename: 2015-09-06-On-Top
+make: FUJIFILM
+model: X100S
+date_taken: 2015:09:05 13:57:12
+aperture: 8.0
+shutter: 1/70
+iso: 400
+lat: 51.121772
+lon: 0.226531
+alt: 98.63
+---
+
+
